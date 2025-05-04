@@ -1,5 +1,5 @@
 # cookie-creature-chrome
-A really basic chrome extension for downloading youtube cookies for use with [yt-dlp]("https://github.com/yt-dlp/yt-dlp")
+A really basic chrome extension for downloading youtube cookies for use with [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
 ## Pre-requisites
 The only pre-reqs for this are cloning/downloading the repo, and loading it unpacked
