@@ -1,0 +1,16 @@
+{
+    "name": "Cookie Creature",
+    "description": "Grabs Cookies from current page in Netscape cookie format",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "cookie.html",
+        "default_icon": "cookie.png"
+    },
+    "permissions": [
+        "cookies"
+    ],
+    "host_permissions": [
+        "https://*.youtube.com/*"
+    ]
+}
