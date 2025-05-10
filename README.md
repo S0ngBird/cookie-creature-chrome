@@ -1,5 +1,5 @@
 # cookie-creature-chrome
-A really basic chrome extension for downloading youtube cookies for use with [yt-dlp](https://github.com/yt-dlp/yt-dlp)
+A really basic chrome extension for downloading youtube cookies for use with [yt-dlp](https://github.com/yt-dlp/yt-dlp).
 It downloads cookies as a text file in Netscape HTTP cookies format, which can then be loaded into other applications as
 necessary.
 
@@ -12,7 +12,7 @@ downloading the source code and loading it manually into your browser.
 3. Manage your extensions by going [here](chrome://extensions/)
 4. Enable developer mode by turning on the slider in the very top-right corner of the window
 5. From the new menu options in the top-left of the window, select "Load unpacked"
-6. With the file chooser, single-click the folder that contains the unzipped source code that you downloaded in step 1.
+6. Single-click the folder that contains the unzipped source code that you downloaded in step 1.
 
 The extension should now be installed!
 
